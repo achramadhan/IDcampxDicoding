@@ -150,7 +150,7 @@ smmap==5.0.0
 sniffio==1.3.0
 soupsieve==2.3.2.post1
 stack-data==0.6.2
-streamlit==1.11.1
+streamlit==1.24.1
 tensorboard==2.10.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
@@ -183,5 +183,7 @@ widgetsnbextension==4.0.4
 win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
 wincertstore==0.2
 wrapt==1.14.1
+
+'/home/appuser/venv/bin/python -m pip install --upgrade pip'
 xyzservices @ file:///home/conda/feedstock_root/build_artifacts/xyzservices_1663619671984/work
 zipp==3.11.0
