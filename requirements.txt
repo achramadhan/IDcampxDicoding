@@ -1,5 +1,4 @@
+numpy
+pandas
+matplotlib
 streamlit
-pandas>2.0
-numpy<=1.25.1
-
-
