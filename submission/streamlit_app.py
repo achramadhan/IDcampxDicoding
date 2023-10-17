@@ -60,7 +60,7 @@ with col1:
     total=main_df.cnt.sum()
     st.metric("Total Riders", value=total)
 with col2:
-    registered=main_df.cnt.sum()
+    registered=main_df.registered.sum()
     st.metric("Registered", value=(registered))
 with col3:
     casual=main_df.casual.sum()
