@@ -18,7 +18,7 @@ streamlit run dashboard/streamlit_app.py
 Tautan untuk dashboard (streamlitCloud)
 
 ```
-https://idcampxdicoding-mlj9muorxlhgwog6pokwv6.streamlit.app/
+https://idcampxdicoding-jom8mmlkmy2a6n5qltv9ve.streamlit.app/
 ```
 
 ![Getting Started](Screenshot_Dashboard.png)
