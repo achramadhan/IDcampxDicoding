@@ -44,10 +44,6 @@ main_df = df[(df["dteday"] >= str(start_date)) &
 
 st.title('Dashboard :blue[Sepeda]')
 
-st.subheader('Info Tabel')
-
-head = df.head(5)
-head
 grouped_jam = main_df.groupby('jam_kategori')[['casual', 'registered']].sum()
 
 
