@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import seaborn as sns
 
-df = pd.read_csv("submission/hour.csv")
+df = pd.read_csv("dashboard/hour.csv")
 
 
 def kategori_jam(row):
