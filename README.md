@@ -21,4 +21,4 @@ Tautan untuk dashboard (streamlitCloud)
 https://idcampxdicoding-mlj9muorxlhgwog6pokwv6.streamlit.app/
 ```
 
-![Getting Started](Screenshot_5.png)
+![Getting Started](Screenshot_Dashboard.png)
